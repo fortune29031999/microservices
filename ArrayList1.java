@@ -28,6 +28,7 @@ public class ArrayList1 {
 		//add(index,integer) is used to add numbers in that position and memory shifting is occured like element in that palce is shifted to 5th position and so on.
 		a.add(4,56);
 		System.out.println(a);
+		System.out.println("kiki");
 
 	}
 
